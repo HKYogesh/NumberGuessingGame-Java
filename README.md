@@ -7,15 +7,18 @@ A simple console-based Java application where players guess numbers and earn rew
 ## Project Structure
 
 ```text
-NumberGuessingGame-Java/
-│
-├── src/
-│   └── Numberguess/demo/
-│       ├── MainClass.java
-│       └── PlayerDetails.java
-│
-├── src/META-INF/
-│   └── persistence.xml
+Numberguess/
+└── src/
+    └── main/
+        ├── java/
+        │   └── Numberguess/
+        │       └── demo/
+        │           ├── MainClass.java
+        │           └── PlayerDetails.java
+        |  
+        └── resources/
+          └── META-INF/
+              └── persistence.xml
 ```
 
 ---

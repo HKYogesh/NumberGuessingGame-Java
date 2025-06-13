@@ -14,7 +14,7 @@ NumberGuessingGame-Java/
 │       └── PlayerDetails.java
 │
 ├── src/META-INF/
-    └── persistence.xml
+│   └── persistence.xml
 
 
 ---

@@ -6,6 +6,7 @@ A simple console-based Java application where players guess numbers and earn rew
 
 ## Project Structure
 
+```text
 NumberGuessingGame-Java/
 │
 ├── src/
@@ -15,7 +16,7 @@ NumberGuessingGame-Java/
 │
 ├── src/META-INF/
 │   └── persistence.xml
-
+```
 
 ---
 
@@ -37,8 +38,9 @@ NumberGuessingGame-Java/
 ---
 
 ## Sample Console Menu
-
+```text
 1. Play the Game  
 2. Check the Result  
 3. Delete the History  
 4. Exit  
+```
